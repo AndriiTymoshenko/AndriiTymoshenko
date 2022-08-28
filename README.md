@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andrii Tymoshenko
-- 👀 I’m interested in sports and programming
+- 👋 Hi, I’m Andrii Tymoshenko ¯\_(ツ)_/¯
+- 👀 I’m interested in calistenics and programming
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me tymoshenkoandrew@gmail.com
 
